@@ -1,0 +1,28 @@
+{
+  "en": {
+    "signInViaAmazon": "Sign in via One-time password",
+    "telegramButton": "Request Telegram OTP",
+    "emailButton": "Request Email OTP",
+    "noAccount": "Don’t have an account?",
+    "signUpLink": "Sign up",
+    "enterYourEmail": "Enter Your Email",
+    "sendOtp": "Send OTP",
+    "requestingOtp": "Requesting OTP",
+    "otpSent": "OTP Sent",
+    "enterCodeToSignIn": "Enter Code to Sign In",
+    "verify": "Verify"
+  },
+  "es": {
+    "signInViaAmazon": "Iniciar sesión con contraseña de un solo uso",
+    "telegramButton": "Solicitar OTP por Telegram",
+    "emailButton": "Solicitar OTP por correo electrónico",
+    "noAccount": "¿No tienes una cuenta?",
+    "signUpLink": "Regístrate",
+    "enterYourEmail": "Introduce tu correo electrónico",
+    "sendOtp": "Enviar OTP",
+    "requestingOtp": "Solicitando OTP",
+    "otpSent": "OTP Enviado",
+    "enterCodeToSignIn": "Introduce el código para iniciar sesión",
+    "verify": "Verificar"
+  }
+}

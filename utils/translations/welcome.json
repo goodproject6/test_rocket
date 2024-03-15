@@ -1,0 +1,34 @@
+{
+  "en": {
+    "additionalAuthorization": "Amazon requires additional authorization:",
+    "followLink": "Copy third party error page URL",
+    "processAuthorization": "Paste URL into the Results URL box",
+    "copyResultURL": "Submit URL to complete sign up",
+    "copyResultURLInput": "Copy result URL to the input below",
+    "submit": "Submit",
+    "welcomeTo": "Welcome to",
+    "link": "Submit  URL",
+    "bestAmazonFlexBot": "The best Amazon Flex bot.",
+    "resultUrl": "Results URL",
+    "optional": "Referral Code (Optional)",
+    "required": "Results Url is required",
+    "emailExists": "Cannot create user, email already exists",
+    "tooMany": "Too many requests"
+  },
+  "es": {
+    "additionalAuthorization": "Amazon requiere autorización adicional:",
+    "followLink": "Copia la URL de la página de error de terceros",
+    "processAuthorization": "Pega la URL en el cuadro de Resultados URL",
+    "copyResultURL": "Envía la URL para completar el registro",
+    "copyResultURLInput": "Copia la URL del resultado en el input de abajo",
+    "submit": "Enviar",
+    "welcomeTo": "Bienvenido a",
+    "link": "Enviar URL",
+    "bestAmazonFlexBot": "El mejor bot para Amazon Flex.",
+    "resultUrl": "URL de Resultados",
+    "optional": "Código de Referencia (Opcional)",
+    "required": "La URL de Resultados es obligatoria",
+    "emailExists": "No se puede crear el usuario, el correo electrónico ya existe",
+    "tooMany": "Demasiadas solicitudes"
+  }
+}

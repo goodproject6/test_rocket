@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Double Slider Style */
+
+.non-selectable {
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE/Edge */
+    user-select: none;
+  }
+  
+  .range-slider .rc-slider-rail {
+    background-color: #ddd;
+    height: 8px !important;
+    border-radius: 10px !important;
+  }
+  
+  .range-slider .rc-slider-track {
+    background-color: #007AFF !important;
+    height: 8px !important;
+    border-radius: 10px !important;
+  }
+  
+  .rc-slider-handle {
+    opacity: 1 !important;
+  }
+  
+  .range-slider .rc-slider-handle {
+    background-color: #007AFF;
+    border: 2px solid #007AFF;
+    box-shadow: none;
+    width: 17px !important;
+    height: 17px !important;
+    margin-top: -5px !important;
+  }
+  
+  .rc-slider-handle:hover {
+    border-color: #007AFF !important;
+  }
+  
+  .rc-slider-handle:active {
+    border-color: #ff882079 !important;
+    box-shadow: 0 0 5px #ff882079 !important;
+    cursor: -webkit-grabbing;
+    cursor: grabbing;
+  }
+  
+  .rc-slider-handle-dragging.rc-slider-handle-dragging.rc-slider-handle-dragging {
+    border-color: #007AFF !important;
+    box-shadow: 0 0 0 2px #007AFF !important;
+  }
+  
+  .rc-slider-handle {
+    position: absolute;
+    z-index: 1;
+    width: 14px;
+    height: 14px;
+    margin-top: -5px;
+    background-color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    cursor: -webkit-grab;
+    cursor: grab;
+    opacity: 0.8;
+    touch-action: pan-x;
+  }
+
+  .red-border {
+    border-color: #FF9900!important;
+  }

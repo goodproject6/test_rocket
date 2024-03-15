@@ -1,0 +1,47 @@
+{
+  "en": {
+    "signUpViaAmazon": "Sync Your Account to Sign Up",
+    "emailPlaceholder": "Email",
+    "referralCodePlaceholder": "Referral Code (optional)",
+    "signUpButton": "Sync Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "signInLink": "Sign In",
+    "followStepsTitle": "Complete your sign up with 3 steps",
+    "step1": {
+      "title": "Click on Sign Up link"
+    },
+    "step2": {
+      "title": "Complete third-party account sign in "
+    },
+    "step3": {
+      "title": "Copy URL of third party page"
+    },
+    "notSureWhatToDo": "Not sure what to do???",
+    "watchVideoTitle": "Watch the video below for your guidance",
+    "clickToWatchVideo": "Sign Up Tutorial",
+    "generatingLink": "Generating link"
+  },
+  "es": {
+    "signUpViaAmazon": "Sincroniza tu cuenta para registrarte",
+    "emailPlaceholder": "Correo electrónico",
+    "referralCodePlaceholder": "Código de referencia (opcional)",
+    "signUpButton": "Sincronizar cuenta",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "signInLink": "Iniciar sesión",
+    "followStepsTitle": "Completa tu registro en 3 pasos",
+    "step1": {
+      "title": "Haz clic en el enlace de registro"
+    },
+    "step2": {
+      "title": "Completa el inicio de sesión con la cuenta de terceros"
+    },
+    "step3": {
+      "title": "Copia la URL de la página de terceros"
+    },
+    "notSureWhatToDo": "¿No estás seguro de qué hacer???",
+    "watchVideoTitle": "Mira el video a continuación para obtener orientación",
+    "clickToWatchVideo": "Tutorial de Registro",
+    "generatingLink": "Generando enlace"
+  }
+  
+}
