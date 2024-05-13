@@ -6,7 +6,7 @@ import HeaderTab from "../../../components/Elements/Common/HeaderTab";
 import PlanDetails from "../../../components/SubscriptionPage/planDetails";
 import { buyCredits } from "../../../redux/payment/features";
 import { useRouter } from "next/navigation";
-import PayAsYouGo from "./payasyougo";
+// import PayAsYouGo from "./payasyougo";
 
 
 
